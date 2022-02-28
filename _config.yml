@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en"
-title                    : "Stock Licencing Protocol"
+title                    : "Stock Licensing Protocol"
 subtitle                 : "A better way to licence stock photos, videos, vectors, music and templates"
 title_separator          : "-"
 description: >- # this means to ignore newlines until "baseurl:"
