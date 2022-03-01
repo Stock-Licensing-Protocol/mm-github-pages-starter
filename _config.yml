@@ -28,9 +28,9 @@ search                   : "true"
 search_full_content      : "true"
 search_provider          : "lunr" # lunr (default), algolia, google
 
-url                      : "http://www.stocklicencingprotocol.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.stocklicensingprotocol.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/mm-github-pages-starter" # the subpath of your site, e.g. "/blog"
-repository               : "Stock-Licensing-Protocol/mm-github-pages-starter" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Stock-Licensing-Protocol/stock-licensing-protocol.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 logo                     : "/assets/images/SLP-logo-800px.png"
 

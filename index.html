@@ -1,20 +1,40 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
-author_profile: false
-classes: wide
-title: "Read our Whitepaper"
-excerpt: "Check out our whitepaper, hot of the presses."
+layout: home
+permalink: /
+hidden: true
 header:
-  overlay_image: /assets/images/header-clouds.jpg
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/james-wheeler-header-clouds.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
-  image_description: ""
   caption: "Photo credit: [**James Wheeler**](https://www.souvenirpixels.com/)"
   actions:
-  - label: "More Info"
-    url: "https://unsplash.com"
+    - label: "View Whitepaper"
+      url: "/whitepaper/"
+excerpt: >
+  Check out the first draft of our whitepaper, fresh of the press.<br />
+feature_row:
+  - image_path: /assets/images/pexels-sam-forson-154243.jpg
+    caption: "Photo credit: [**James Wheeler**](https://www.souvenirpixels.com/)"
+    alt: "Creators"
+    title: "For Creators"
+    excerpt: "Creators can sell their stock photos, videos, vectors, music and templates without the massive marketups of stock agencies."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/pexels-andrea-piacquadio-3760081.jpg
+    alt: "Stock Buyers"
+    title: "Stock Buyers"
+    excerpt: "Get quality stock assets for your projects quickly and easily without subscriptions and monthly fees."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/pexels-kindel-media-7688336.jpg
+    alt: "Entrepreneurs and Marketers"
+    title: "Entrepreneurs / Marketers"
+    excerpt: "Anyone can easily create their stock asset marketplace and choose your own markup."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
-This is an amazing project that you will love.  It is so amazing because of all the cool things it does.  How does this look on the page?   
+{% include feature_row %}
