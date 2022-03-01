@@ -4,7 +4,7 @@ title: "Contact Us"
 author_profile: false
 ---
 
-Uset the form below to get in touch, we will get back to you as soon as we can.
+Use the form below to get in touch, we will get back to you as soon as we can.
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkybvdr" method="post" wtx-context="0E9B3B15-751D-4534-8684-1E8FC7440E08">
   <fieldset id="fs-frm-inputs">
