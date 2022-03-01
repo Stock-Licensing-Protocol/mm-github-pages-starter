@@ -2,6 +2,14 @@
 permalink: /contact/
 title: "Contact Us"
 author_profile: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/pexels-pixabay-356830.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Photo: [**xegxef**](https://pixabay.com/photos/rainbow-bridge-tokyo-bridge-2086645/)"
+excerpt: >
+  <br />
+  <br />
 ---
 
 Use the form below to get in touch, we will get back to you as soon as we can.
