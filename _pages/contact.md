@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /contact/
 title: "Contact Us"
 author_profile: false

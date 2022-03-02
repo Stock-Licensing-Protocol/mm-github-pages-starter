@@ -7,3 +7,16 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+docs:
+  - title: Table of Contents
+    children:
+      - title: "Introduction"
+        url: /whitepaper/
+      - title: "Protocol Participants"
+        url: /whitepaper/protocol-participants/
+      - title: "Protocol Design"
+        url: /whitepaper/protocol-design/
+      - title: "Token Cryptoeconomics"
+        url: /whitepaper/token-cryptoeconomics/
+      - title: "Roadmap"
+        url: /whitepaper/roadmap/

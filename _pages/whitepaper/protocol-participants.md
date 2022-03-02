@@ -1,8 +1,11 @@
 ---
-layout: splash
-permalink: /about/
-title: "About"
+permalink: /whitepaper/protocol-participants/
+title: "Protocol Participants"
 author_profile: false
+sidebar:
+    nav: "docs"
+classes: wide
+toc: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/nft-about-header.jpg
