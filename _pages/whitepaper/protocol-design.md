@@ -1,6 +1,6 @@
 ---
-permalink: /whitepaper/protocol-participants/
-title: "Protocol Participants"
+permalink: /whitepaper/protocol-design/
+title: "Protocol Design"
 author_profile: false
 sidebar:
     nav: "docs"

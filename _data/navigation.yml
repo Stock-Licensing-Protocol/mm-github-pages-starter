@@ -1,4 +1,6 @@
 main:
+  - title: "Contribute"
+    url: /contribute/
   - title: "Whitepaper"
     url: /whitepaper/
   - title: "Blog"

@@ -1,6 +1,6 @@
 ---
-permalink: /whitepaper/protocol-participants/
-title: "Protocol Participants"
+permalink: /whitepaper/token-cryptoeconomics/
+title: "Token Cryptoeconomics"
 author_profile: false
 sidebar:
     nav: "docs"
