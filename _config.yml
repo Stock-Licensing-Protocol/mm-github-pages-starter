@@ -169,7 +169,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  analytics:
+analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-4R8WDW4NN1"
