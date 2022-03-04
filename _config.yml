@@ -122,6 +122,9 @@ author:
 
 footer:
   links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCCtNhUwvX-ilA_Pwsm6ZF1w"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/StockLicensing"
@@ -148,6 +151,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "Announcements" # Optional - must be existing label.
 
 category_archive:
   type: liquid
